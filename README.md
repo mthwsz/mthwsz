@@ -36,13 +36,6 @@ I believe consistency and practice are the key to becoming a good developer.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthwsz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthwsz&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Goals
 
 - Build small Java projects
