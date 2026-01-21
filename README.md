@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Mateus Soares
 
-<!--
-**mthwsz/mthwsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Programming Student**  
+🇧🇷 From Brazil  
+☕ Currently learning **Java**  
+🚀 Focused on building a solid foundation in software development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+I'm a beginner programmer focused on learning the fundamentals of programming using **Java**.  
+I'm studying logic, algorithms, and basic software concepts, always aiming to improve step by step.
+
+I believe consistency and practice are the key to becoming a good developer.
+
+---
+
+## 🧰 Tech Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+
+- **Java (Beginner)**
+- Programming Logic
+- Algorithms (basic)
+
+---
+
+## 📚 Currently Learning
+
+- Java fundamentals
+- Conditional structures and loops
+- Methods and functions
+- Object-Oriented Programming (basics)
+- Git & GitHub (basics)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mthwsz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthwsz&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+
+- Build small Java projects
+- Improve problem-solving skills
+- Learn Object-Oriented Programming well
+- Create a solid portfolio over time
+
+---
+
+> “Every expert was once a beginner.”
